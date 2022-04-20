@@ -1,0 +1,10 @@
+VS & GIT commands
+
+- VS
+ctrl + shit + p
+
+
+
+
+
+- GIT
