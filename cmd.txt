@@ -1,6 +1,6 @@
 VS & GIT commands
 
-#WORKFLOW 
+ #WORKFLOW --> edit, add, commit.
 - Crear repo
 > git init
 
